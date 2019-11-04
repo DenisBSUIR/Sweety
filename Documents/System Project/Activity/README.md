@@ -9,14 +9,14 @@
 <a name="reg"/>
 
 # 1 Зарегистрироваться
-![Зарегистрироваться](../../../Images/System%20design/Registration(act).png)
+![Зарегистрироваться](../../../Images/System%20Design/Registration_act.png)
 
 <a name="login"/>
 
 # 2 Войти в учётную запись
-![Войти в учётную записть](../../../Images/System%20design/Login(act).png)
+![Войти в учётную записть](../../../Images/System%20Design/Login_act.png)
 
 <a name="contacts"/>
 
 # 3 Действия со списком контактов
-![Действия со списком контактов](../../../Images/System%20design/Contacts.png)
+![Действия со списком контактов](../../../Images/System%20Design/Contacts_act.png)
