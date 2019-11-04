@@ -9,14 +9,14 @@
 <a name="reg"/>
 
 # 1 Зарегистрироваться
-![Зарегистрироваться](../../../Images/System%20Design/Registration_seq.png)
+![Зарегистрироваться](../../../Images/System%20Design/Registration_seq.PNG)
 
 <a name="login"/>
 
 # 2 Войти в учётную запись
-![Войти в учётную записть](../../../Images/System%20Design/Enter_seq.png)
+![Войти в учётную записть](../../../Images/System%20Design/Enter_seq.PNG)
 
 <a name="add"/>
 
 # 3 Добавить контакт
-![Добавить заметку](../../../Images/System%20Design/AddContact_seq.png)
+![Добавить заметку](../../../Images/System%20Design/AddContact_seq.PNG)
